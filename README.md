@@ -1,4 +1,4 @@
-# Fraud Detection with or without Oversampling 99.3% ROC_AUU_SCORE
+# Fraud Detection with or without Oversampling 99.3% ROC_AUC_SCORE
 Best : Using_SMOTE_OVERSAMPLING Extra Trees Classifer :  Validation Accuracy: 99.3%, ROC_AUC_Score: 99.3%
         it can be further improved by decreasing the fraud_threhold(currently at 100)
 
