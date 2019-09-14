@@ -1,7 +1,8 @@
 # Fraud Detection with or without Oversampling
 Best : Using_SMOTE_OVERSAMPLING Extra Trees Classifer :  Validation Accuracy: 99.3%, ROC_AUC_Score: 99.3%
+        it can be further improved by decreasing the fraud_threhold(currently at 100)
 
-## Fraud_Detection_Using_SMOTE_OVERSAMPLING
+## Fraud_Detection_Using_SMOTE_OVERSAMPLING.ipynb
 
 I am able to achieve the following accuracies in the validation data. These results can be further improved by reducing the 
 parameter, number of frauds used to create features from category items. I have used a threshold of 100.
