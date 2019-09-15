@@ -1,7 +1,7 @@
 # Fraud Detection ROC_AUC_SCORE 99.3%, Accuracy 99.3%
 Best : Using_SMOTE_OVERSAMPLING Extra Trees Classifer :  Validation Accuracy: 99.3%, ROC_AUC_Score: 99.3%
         it can be further improved by decreasing the fraud_threshold(currently at 100) and applying oversampling 
-        to only training data(to generalize well)
+        to only training data(to generalize well). I will add xgboost, autoencoder with oversampling applied to training data only later
         
 ### Download data from https://www.kaggle.com/c/ieee-fraud-detection/data and unzip to data folder
 
