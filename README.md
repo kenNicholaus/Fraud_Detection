@@ -3,7 +3,7 @@ Best : Using_SMOTE_OVERSAMPLING Extra Trees Classifer :  Validation Accuracy: 99
         it can be further improved by decreasing the fraud_threshold(currently at 100) and applying oversampling 
         to only training data(to generalize well). I will add xgboost, autoencoder with oversampling applied to training data later
         
-### Download data from https://www.kaggle.com/c/ieee-fraud-detection/data and unzip to data folder
+### Download data from [kaggele](https://www.kaggle.com/c/ieee-fraud-detection/data) and unzip to data folder
 
 ## Fraud_Detection_Using_SMOTE_OVERSAMPLING.ipynb
 
